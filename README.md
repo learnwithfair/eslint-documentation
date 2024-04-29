@@ -2,7 +2,8 @@
 
 Thanks for visiting my GitHub account!
 
-<img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" height="200px" width = "180px"/> 
+<img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" height="200px" width = "180px"/> **ESLint** is a static code analysis tool for identifying problematic patterns found in JavaScript code. It was created by Nicholas C. Zakas in 2013. Rules in ESLint are configurable, and customized rules can be defined and loaded. ESLint covers both code quality and coding style issues. 
+
 - A linter - tool for identifying and reporting programmatic, stylistic errors.
 - ESLint does static error checking before running the program
 
@@ -130,4 +131,7 @@ Thanks for visiting my GitHub account!
 7. Run the eslint: `eslint fileName.js` and check the erros
 8. Fix automatically fixable errors: `eslint fileName.js --fix`
 
-[Facebook](http://facebook.com/learnwithfair),  [Youtube](http://facebook.com/@learnwithfair),  [Instagram](http://instagram.com/learnwithfair) 
+
+## Follow Me
+
+<img src ="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="15px" width="15px"/> [Facebook](http://facebook.com/learnwithfair),   <img src ="https://image.similarpng.com/very-thumbnail/2021/10/Youtube-icon-design-on-transparent-background-PNG.png" height="20px" width="20px"/>  [Youtube](http://youtube.com/@learnwithfair),   <img src ="https://i.pinimg.com/originals/fa/ea/02/faea02f412415becfb4939d2b6431c28.jpg" height="15px" width="15px"/>    [Instagram](http://instagram.com/learnwithfair) 
